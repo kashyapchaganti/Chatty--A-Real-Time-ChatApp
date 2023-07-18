@@ -1,6 +1,14 @@
 # Chatty--A-Real-Time-ChatApp
 
 Chat Application Using React, Node.js and Socket.io with MongoDB
+
+## A Sneak-peek 
+
+
+https://github.com/kashyapchaganti/Chatty--A-Real-Time-ChatApp/assets/66533610/58d10f22-4115-4cdc-88b4-1ab61b9ad475
+
+
+
 ## Installation Guide
 
 ### Requirements
