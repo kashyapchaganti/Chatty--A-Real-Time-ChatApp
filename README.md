@@ -6,6 +6,7 @@ Chat Application Using React, Node.js and Socket.io with MongoDB
 ### Requirements
 - [Nodejs](https://nodejs.org/en/download)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
+- [Socket.io](https://socket.io/get-started/chat)
 
 Both should be installed and make sure mongodb is running.
 
