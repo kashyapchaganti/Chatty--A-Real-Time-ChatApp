@@ -48,3 +48,8 @@ yarn start
 
 Done! Now open localhost:3000 in your browser.
 
+## Next Feature Update (In Progress) 
+
+[Group Chat](https://github.com/kashyapchaganti/Group-Chat-using-Socket/tree/master) 
+
+
